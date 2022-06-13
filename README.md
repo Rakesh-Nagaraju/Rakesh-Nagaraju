@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rakesh-Nagaraju
-- 👀 I’m interested in Coding, Software Developement, Machine Learning, Cybersecurity, Ios App development, Data Science.
+- 👀 I’m interested in Artificial Inetlligence, Coding, Software Developement, Machine Learning, Cybersecurity.
 - 🌱 I’m currently looking for full-time Opportunities.
 - 💞️ I’m looking to collaborate on: any new and creative projects.
 - 📫 How to reach me : rakenju@gmail.com, +1-669(288) 4508
